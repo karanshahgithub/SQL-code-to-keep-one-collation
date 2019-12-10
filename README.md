@@ -1,0 +1,1 @@
+# SQL-code-to-keep-one-collation
